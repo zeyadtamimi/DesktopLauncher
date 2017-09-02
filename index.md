@@ -6,6 +6,8 @@ TODO explain core functionaility
 
 [![Core Functionality](https://github.com/ZeyadTamimi/DesktopLauncher/blob/master/images/thumbnail_core.png)](https://www.youtube.com/watch?v=LGqRxaPduhk "Core Functionality - Click to Watch!")
 
+![Core Functionality](https://github.com/ZeyadTamimi/DesktopLauncher/blob/master/images/thumbnail_core.png)
+
 ### Extended Functionality
 TODO explain extended functionality
 
