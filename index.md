@@ -9,4 +9,4 @@ TODO explain core functionaility
 ### Extended Functionality
 TODO explain extended functionality
 
-[![Extended Functionality](https://github.com/ZeyadTamimi/DesktopLauncher/blob/master/images/thumbnail%20-%20core%20functionality.png)](https://www.youtube.com/watch?v=gDMdrrUyVQY "Extended Functionality - Click to Watch!")
+[![Extended Functionality](https://github.com/ZeyadTamimi/DesktopLauncher/blob/master/images/thumbnail%20-%20extended%20functionality.png)](https://www.youtube.com/watch?v=gDMdrrUyVQY "Extended Functionality - Click to Watch!")
