@@ -1,4 +1,3 @@
-## DesktopLauncher
 The DesktopLauncher is a toy turret that can aim, take photos, and be fired by the user. The DesktopLauncher was created using an FPGA as well as several other hardware components (servos, camera, bluetooth chip, touchscreen). Aside from the controls available on the turret's touchscreen, users can pair the turret to an Android companion app. This Android app provides all the functionality of the turret alone, and adds several features that make it even more fun to play with.
 <br/><br>
 This page shows how the development of the DesktopLauncher progressed over the course of 4 months and includes source code, design documentation, and demo videos. 
