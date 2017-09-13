@@ -22,16 +22,11 @@ TODO explain core functionaility
 The second phase of our project centered around creating and incorporating an android app to control the turret via a Bluetooth connection.  The core functionality of this module is to export all of the functionality of module 1 onto the mobile app and control the turret through Bluetooth. This includes the basic rotation, firing, image capturing and displaying, and motion detection discussed previously.  Once this core functionality and communication structure was established between the turret and the mobile app, additional features were added.
 
 These include: 
-
--Utilizing the Android device’s accelerometer to detect phone tilt and move the turret accordingly.
-
--Ability to click on an image and have the turret rotate to center on that spot.
-
--A custom photo gallery to view photos taken by the turret.
-
--A settings menu to customize turret speed and photo settings.
-
--A tracking mode to track a coloured blob selected by the user.
+- Utilizing the Android device’s accelerometer to detect phone tilt and move the turret accordingly.
+- Ability to click on an image and have the turret rotate to center on that spot.
+- A custom photo gallery to view photos taken by the turret.
+- A settings menu to customize turret speed and photo settings.
+- A tracking mode to track a coloured blob selected by the user.
 
 
 #### Documentation for Module 2
